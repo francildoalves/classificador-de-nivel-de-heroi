@@ -29,3 +29,8 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 - Se XP for maior ou igual a 10.001 = Radiante
 
 ### Saída Esperada:
+Ao final deve se exibir uma mensagem:
+
+```bash
+O Herói de nome {nome} está no nível de {nivel}
+````
