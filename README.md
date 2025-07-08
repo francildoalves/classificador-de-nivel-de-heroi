@@ -108,19 +108,20 @@ Se você deseja contribuir para este projeto, fique à vontade para realizar iss
 
 ### 🛠️ Como Começar
 
+1. Faça um fork deste repositório
+2. Clone o fork para seu computador
 ```bash
-# 1. Faça um fork deste repositório
-# 2. Clone o fork para seu computador
 git clone https://github.com/seu-usuario/francildoalves/classificador-de-nivel-de-heroi.git
-
-# 3. Implemente suas alterações ou adições
-# 4. Faça commit e push para o seu fork
+```
+3. Implemente suas alterações ou adições
+4. Faça commit e push para o seu fork
+```bash
 git add .
 git commit -m "Melhorias implementadas"
 git push origin minha-branch
-
-# 5. Envie um Pull Request para revisão🚀
 ```
+5. Envie um Pull Request para revisão 🚀
+
 
 ---
 
