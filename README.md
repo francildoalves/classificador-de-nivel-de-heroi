@@ -73,11 +73,11 @@ node src/index.js
 
 ## 📄 Licença
 
-Este projeto está licenciado como:
+Este projeto está licenciado como: 
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 - ✅ Uso educacional
 - ✅ Uso com atribuição de créditos
-- Licença: MIT
 
 ---
 
